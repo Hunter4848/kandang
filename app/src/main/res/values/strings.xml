@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kandang</string>
+    <string name="search">Cari</string>
+    <string name="tail">Ekor</string>
+    <string name="icon_bodyweight">icon BodyWeight</string>
+    <string name="add">add</string>
+    <string name="back">back</string>
+    <string name="divider_vertical_header">|</string>
+    <string name="type">Jenis Kandang</string>
+    <string name="age">Age</string>
+</resources>
